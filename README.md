@@ -8,3 +8,4 @@ The goal of this project is to:
 1. Understand global salary trends in the data industry
 2. Identify high-paying roles and regions
 3. Analyze how experience and company size impact compensation
+<img src="C:\Users\meena\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-26 133306.png">
